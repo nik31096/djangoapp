@@ -1,2 +1,2 @@
 # lang_app
-Language database on Django pyhton framework
+Language database on Django Python framework
